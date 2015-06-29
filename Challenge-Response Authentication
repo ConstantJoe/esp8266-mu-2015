@@ -1,0 +1,5 @@
+Challenge-response authentication is a group or family of protocols characterized by one entity sending a challenge to another entity. The second entity must respond with the appropriate answer to be authenticated.
+
+A simple example of this is password authentication. The challenge is from a server asking the client for a password to authenticate the client's identity so that the client can be served.
+
+
